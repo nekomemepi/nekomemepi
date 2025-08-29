@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @nekomemepi
-- 👀 I’m interested in numbers, cosmology, and particle physics
-- 🌱 I’m currently learning to hate python
-- 📫 You can reach me if you really try
-- 😄 Pronouns: hir/zie
+- 👋 Hi, I’m @nekomemepi. I'm...
+- 👀 interested in numbers, cosmology, and particle physics;
+- 🌱 learning to loathe and despise git, python, and javascript;
+- ✨ wondering what I'm doing here.
+- 📫 You can reach me if you really try.
+- 😄 Pronouns: hir/zie.
 
 <!---
 - ⚡ Fun fact: ...
