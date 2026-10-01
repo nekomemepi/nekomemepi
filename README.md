@@ -2,6 +2,7 @@
 - 👀 interested in numbers, cosmology, and particle physics;
 - 🌱 learning to loathe and despise git, python, and javascript;
 - ✨ wondering what I'm doing here.
+- 🔎 entropic dynamics
 - 📫 You can reach me if you really try.
 - 😄 Pronouns: hir/zie.
 
